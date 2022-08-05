@@ -1,0 +1,13 @@
+# Suggest movies to watch based on mood detection from trailers
+- Youtube download
+- Object detectioon
+- Frames extraction
+- Scene detection
+- Video to audio conversion
+- Face recognisition
+- Face emotion detection
+- Soundtrack emotion detection
+- Speech emotion detection
+- Speech recognition
+- Speech to text conversion
+- Script emotion detection
